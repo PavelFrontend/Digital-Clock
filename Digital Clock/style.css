@@ -1,0 +1,23 @@
+html {
+	background-color:  #000;
+}
+
+.container {
+	position: absolute;
+	top: 20%;
+	left: 50%;
+	transform: translate(-50%, 50%);
+	font-size: 60px;
+	text-align: center;
+	font-weight: 600;
+	font-family: 'Poppins', sans-serif;
+	padding: 20px;
+	border: 7px solid darkturquoise;
+   border-radius: 30px;
+	color:darkturquoise;
+}
+
+
+  
+
+
